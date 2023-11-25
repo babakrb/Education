@@ -1,0 +1,32 @@
+.date{
+    left: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+
+.address{
+    position: relative;
+    left:100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+.phone{
+    position: relative;
+    left:150px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+.socialmedia{
+    position: relative;
+    left:250px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+
+.header{
+    padding: 10px;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+

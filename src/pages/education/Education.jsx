@@ -1,14 +1,13 @@
 import Header from "../../components/header/Header";
 
 
-function About()
-{
+function Education(){
     return(
         <div>
             <Header />
-            <h1>About Us</h1>
+            <h1>Education</h1>
         </div>
     )
 }
 
-export default About;
+export default Education;
